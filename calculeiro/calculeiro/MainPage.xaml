@@ -9,7 +9,7 @@
         </Frame>
         <!-- Layout children in two columns -->
         
-            <Button Text="Save"
+            <Button Text="CONVESÇÃO DE BASES"
                     Clicked="Button_Conv_Base_Clicked" />
         
     </StackLayout>
