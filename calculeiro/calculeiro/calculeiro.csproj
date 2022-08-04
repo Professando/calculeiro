@@ -16,22 +16,22 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Bin_Dec\BinarioDecimal.xaml.cs">
+    <Compile Update="BinarioDecimal.xaml.cs">
       <DependentUpon>BinarioDecimal.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Bin_Dec\BinarioDecimal.xaml">
+    <EmbeddedResource Update="BinarioDecimal.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Conv_Base\ConvBase.xaml">
+    <EmbeddedResource Update="ConvBase.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Primo_Par_Fator\PrimoParFatorial.xaml">
+    <EmbeddedResource Update="PrimoParFatorial.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Som_Sub_Mul_Div\SomaSubMulDiv.xaml">
+    <EmbeddedResource Update="SomaSubMulDiv.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
